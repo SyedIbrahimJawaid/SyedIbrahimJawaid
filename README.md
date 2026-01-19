@@ -3,7 +3,7 @@
 I’m not trying to look like a senior developer.  
 I’m trying to **become a good one**.
 
-I’m a Computer Science student learning how the web actually works —  
+I’m a Software Enginering student learning how the web actually works —  
 from JavaScript fundamentals to modern frontend frameworks.
 
 ---
@@ -25,10 +25,11 @@ This GitHub is a **learning log**, not a highlight reel.
 
 ## 🔍 What I’m Working On Right Now
 
-- JavaScript fundamentals (functions, arrays, objects, logic)
-- React basics (components, props, state)
+- JavaScript fundamentals and working
+- React
 - Next.js for real-world structure
 - UI animations & clean layouts using Tailwind CSS
+- Building full stack applications for real-world experience
 
 ---
 
@@ -36,10 +37,11 @@ This GitHub is a **learning log**, not a highlight reel.
 
 - HTML & CSS  
 - Tailwind CSS  
-- JavaScript (ES6+)  
-- React (foundations)  
+- React 
 - Next.js (beginner → intermediate)  
-- Git & GitHub  
+- Git & GitHub
+- Supabase
+- Node js
 
 I only list what I’ve actually used.
 
@@ -63,17 +65,15 @@ More projects are coming as I improve.
 
 - Small JavaScript projects with clear logic
 - UI experiments and animations
-- A portfolio built step by step
-- Fewer repos — but better ones
+- Experiencing full stack applications 
 
 ---
 
 ## 🤝 Contact
 
 - GitHub: https://github.com/SyedIbrahimJawaid
-- Portfolio: coming soon
+- Portfolio: https://syedibrahim-portfolio-delta.vercel.app
 
 ---
 
-> “Skill isn’t magic. It’s just focused repetition.”
 
