@@ -1,9 +1,6 @@
 # Syed Ibrahim Jawaid
 
-I’m not trying to look like a senior developer.  
-I’m trying to **become a good one**.
-
-I’m a Software Engineering student learning how the web actually works —  
+Software Engineering student learning how the web actually works —  
 from JavaScript fundamentals to modern frontend frameworks.
 
 ---
