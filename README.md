@@ -77,8 +77,3 @@ More projects are coming as I improve.
 - Full-stack applications built for real use cases
 
 ---
-
-## Contact
-
-- GitHub: https://github.com/SyedIbrahimJawaid  
-- Portfolio: https://syedibrahim-portfolio-delta.vercel.app
