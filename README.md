@@ -1,3 +1,5 @@
+<div style="background-color:#0f172a; padding:16px; color:white;">
+
 # Syed Ibrahim Jawaid
 
 Software Engineering student learning how the web actually works —  
@@ -74,3 +76,4 @@ More projects are coming as I improve.
 - Full-stack applications built for real use cases
 
 ---
+</div>
