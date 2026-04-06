@@ -65,7 +65,7 @@ That means:
 More projects are coming as I improve.
 
 ---
-[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedIbrahimJawaid)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## What You’ll See Here Over Time
 
