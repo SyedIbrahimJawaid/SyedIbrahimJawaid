@@ -18,23 +18,7 @@ Instead, I focus on:
 
 This GitHub is a **learning log**, not a highlight reel.
 
----
-
-## What I’m Working On Right Now
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Fundamentals-yellow)
-![React](https://img.shields.io/badge/React-Working-blue)
-![Next.js](https://img.shields.io/badge/Next.js-Real--world%20Structure-black)
-![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38BDF8)
-![Full%20Stack](https://img.shields.io/badge/Full%20Stack-In%20Progress-green)
-
-- Strengthening JavaScript fundamentals
-- Working with React
-- Using Next.js for real-world structure
-- Building UI animations & clean layouts with Tailwind CSS
-- Developing full-stack applications for real-world experience
-
----
+--- 
 
 ## Tools I Use (and am learning properly)
 
