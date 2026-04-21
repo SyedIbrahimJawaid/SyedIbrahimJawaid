@@ -68,7 +68,6 @@ More projects are coming as I improve.
 
 ---
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
